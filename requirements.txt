@@ -1,0 +1,9 @@
+# JupyterLab & Notebook 核心
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.0
+
+# 交互式计算 (部分 notebook 代码示例需要)
+ipython>=8.0
+numpy>=1.24
+torch>=2.0

@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Jupyter runtime
+.jupyter/
+**/jupyter_runtime/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code (project settings)
+.claude/
+
+# Temporary files
+*.log
+/tmp/
